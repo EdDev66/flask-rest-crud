@@ -1,0 +1,1 @@
+This Python project demonstrates the implementation of a CRUD (Create, Read, Update, Delete) REST API using Flask, a lightweight web framework. The API allows you to perform basic CRUD operations on a resource representing coffee shops.
